@@ -111,3 +111,31 @@ body{
 .nav-links a:hover{
     color:white;
 }
+
+@media (max-width: 768px) {
+
+.hero{
+flex-direction: column;
+text-align: center;
+gap: 30px;
+}
+
+.photo img{
+width:180px;
+height:180px;
+}
+
+.intro h1{
+font-size:32px;
+}
+
+.quote{
+font-size:22px;
+padding:0 20px;
+}
+
+.navbar{
+justify-content:center;
+}
+
+}
