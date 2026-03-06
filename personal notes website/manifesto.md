@@ -1,3 +1,0 @@
-- You are not learning web development.
-- You are assembling a presentation layer for your thinking.
-- this will be an anchor project rest everything will be built around it.
